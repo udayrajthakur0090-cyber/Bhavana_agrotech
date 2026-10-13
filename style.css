@@ -414,13 +414,13 @@ h2 em {
 }
 .intro-copy .lead {
   font-weight: 700;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.65;
   margin: 22px 0 12px;
 }
 .intro-copy > p:not(.lead) {
   color: var(--muted);
-  font-size: 13px;
+  font-size: 18px;
 }
 .intro-points {
   display: grid;
@@ -448,11 +448,11 @@ h2 em {
   flex-direction: column;
 }
 .intro-points strong {
-  font-size: 12px;
+  font-size: 16px;
 }
 .intro-points small {
   color: var(--muted);
-  font-size: 11px;
+  font-size: 14px;
 }
 .text-link {
   display: inline-flex;
